@@ -1,4 +1,4 @@
 Miep, 
 - 👋 Hello  
-- 💻 Java, C#, Python, HTML, CSS, PhP
+- 💻 ☕ Java, 🐍 Python, 🌏 PhP
 - 📫 Fyso#8296
